@@ -1,4 +1,3 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://portfolio-dharmik.vercel.app/)
 <h1 align="center">Hi 👋, I'm Dharmik Upadhyay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" align="right" alt="coding image" width="400"/>
